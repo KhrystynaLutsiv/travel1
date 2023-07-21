@@ -1,1 +1,6 @@
-
+<style>
+.header_photo {
+background-image: url("images/1.jpg");
+background-size: cover;
+}
+</style>
