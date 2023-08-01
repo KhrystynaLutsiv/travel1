@@ -1,5 +1,5 @@
 <style>
-.header_photo2 {
+.header__logoimg2 {
 background-image: url("images/2.jpg");
 background-size: cover;
 background-position: center;
