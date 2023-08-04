@@ -6,4 +6,7 @@ background-size: auto;
   background-repeat: no-repeat;
   position: relative;
 }
+.photocontainer {
+  background-image: url("images/4.jpg");
+}
 </style>
