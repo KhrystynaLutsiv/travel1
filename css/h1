@@ -1,6 +1,6 @@
 <style>
 .header__logo-container {
-background-image: url("travel1/blob/main/images/2.jpg");
+background-image: url("images/2.jpg");
 background-size: cover;
 background-position: center;
  background-repeat: no-repeat;
