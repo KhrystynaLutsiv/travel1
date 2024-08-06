@@ -1,5 +1,8 @@
 <style>
-.header_menu {
+.header_div_all {
+   
+}
+.header_container_list {
    position: absolute;
     top: 10px; /* Відстань від верхнього краю контейнера */
     right: 10px; /* Відстань від правого краю контейнера */
@@ -10,5 +13,8 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.header_logo_list {
+   
 }
 </style>
