@@ -1,1 +1,17 @@
-
+<style>
+.header {
+  
+}
+.header_menu {
+   position: absolute;
+    top: 10px; /* Відстань від верхнього краю контейнера */
+    right: 10px; /* Відстань від правого краю контейнера */
+    list-style: none; /* Видалення маркерів списку */
+    padding: 0;
+    margin: 0;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+</style>
