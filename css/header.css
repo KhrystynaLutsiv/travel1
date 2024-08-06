@@ -1,20 +1,45 @@
-<style>
-.header_div_all {
-   
+/* Основні стилі для header */
+.header {
+    background-color: #f0f0f0;
+    padding: 10px 20px;
 }
-.header_container_list {
-   position: absolute;
-    top: 10px; /* Відстань від верхнього краю контейнера */
-    right: 10px; /* Відстань від правого краю контейнера */
-    list-style: none; /* Видалення маркерів списку */
-    padding: 0;
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_logo img {
+    max-height: 50px;
+}
+
+.navigation {
+    flex-grow: 1;
+    text-align: right;
+}
+
+.header_menu {
+    list-style: none;
     margin: 0;
-    background-color: #f8f8f8;
-    border: 1px solid #ddd;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* Відстань між пунктами меню */
+}
+
+.header_mi {
+    margin: 0;
+}
+
+.header_mi button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    cursor: pointer;
 }
-.header_logo_list {
-   
+
+.header_mi button:hover {
+    background-color: #0056b3;
 }
-</style>
