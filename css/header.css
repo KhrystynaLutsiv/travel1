@@ -24,7 +24,8 @@
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 20px; /* Відстань між пунктами меню */
+    gap: 20px; 
+    color: black;
 }
 
 .header_mi {
